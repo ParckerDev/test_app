@@ -7,3 +7,5 @@ services:
       - POSTGRES_PASSWORD: userpassword
       - POSTGRES_USER: postgres_user
       - POSTGRES_DB: postgres_db
+    
+    
